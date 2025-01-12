@@ -1,0 +1,31 @@
+img{
+    height:200px;
+    width:200px;
+}
+.color-title{
+    font-weight: normal;
+    color: red;
+}
+h2[id="blue"]{
+    color: blue;
+}
+h2[id="orange"]{
+    color: orange;
+}
+h2[id="green"]{
+    color: green;
+}
+h2[id="yellow"]{
+    color: yellow;
+}
+body{
+    text-align: center;
+    background-color: indigo;
+}
+h1{
+    font-weight: bolder;
+    font-size:100px;
+}
+.highlight{
+    color: white;
+}
